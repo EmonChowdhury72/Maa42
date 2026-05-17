@@ -1,0 +1,10 @@
+rule_id,rule_group,condition,risk_level,recommended_action,notes
+R001,Danger sign,Heavy bleeding is present,High,Immediate clinic or emergency referral,Urgent clinical review is required
+R002,Infection pattern,Fever with abdomen or incision pain,Medium/High,Same-day health worker review,Assess infection-related warning signs
+R003,Hypertension warning,"Severe headache with swelling of face, hands, or feet",High,Immediate blood pressure and preeclampsia assessment,Prioritize urgent referral
+R004,Postpartum timing,Postpartum day 1-7 with moderate or severe symptoms,Medium/High,Prioritized early postpartum follow-up,Early postpartum period receives higher priority
+R005,Continuity gap,Missed check-ins are two or more,Medium,Follow-up call from assigned worker,Escalate if symptoms are worsening
+R006,Mental health support,Mental distress with moderate or severe symptoms,Medium,Supportive counseling pathway or professional referral,Not a diagnostic decision
+R007,Access barrier,No transport or caregiver support with medium/high risk,Medium/High,Coordinate outreach and transport support,Context-aware continuity support
+R008,Recovery trend,Symptoms are worsening,Medium,Review trend and update care plan,Monitor change across follow-ups
+R009,Routine recovery,Low risk with improving or stable symptoms,Low,Continue scheduled monitoring,Provide safety-net instructions
